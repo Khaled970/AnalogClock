@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    color: #ffffff;
+    color: #bc199b;
 }
 
 body{
@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #2718c6;
+    background-color: #85c214;
 }
 h1{
     font-family: 'Poppins';
